@@ -1,0 +1,32 @@
+.checkout{
+    padding: 20px;
+    background-color: white;
+    display: flex;
+    width: 80%;
+    margin: 20px;
+    justify-content:space-around
+}
+
+.checkout__empty{
+    padding: 30px;
+}
+
+.checkout__empty>:nth-child(2):hover{
+    cursor: pointer;
+    color:#E79F43;
+}
+
+.checkout> img{
+    width: 40%;
+}
+.checkout__subtotal{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+
+}
+
+.checkout__subtotal > button{
+    padding:5px 10px;
+    background:#F3A847;
+}

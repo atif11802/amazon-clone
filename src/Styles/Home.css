@@ -1,0 +1,16 @@
+.home__container{
+    width: 85%;
+    margin: auto;
+    
+}
+
+.home__banner> img{
+    width: 100%;
+}
+.home__Products{
+    position: relative;
+    bottom: 40px;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: center;
+}

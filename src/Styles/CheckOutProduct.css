@@ -1,0 +1,25 @@
+
+.checkoutproduct{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid lightgray;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.checkoutproduct > img{
+    width: 300px;
+    height: 200px;
+}
+
+
+.checkoutproduct > h4{
+    margin-left: 40px;
+}
+
+
+.checkoutproduct > button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
